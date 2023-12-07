@@ -1,0 +1,50 @@
+.container{
+    background-color: yellowgreen;
+
+}
+#container {
+    background-color: blueviolet;
+
+}
+
+div{
+background-color: blue;
+
+}
+
+.container{
+    background-color: rgb(255, 85, 0);
+    margin-top: 2%;
+    height: 300px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #BE3E82;
+}
+
+.container {
+    background-color: rgb(157, 157, 184);
+    height: 500px;
+    width: 500px;
+}
+
+.container p{
+    font-size: 16px;
+}
+
+
+
+
+
+
+.container {
+    background-color: cyan;
+    margin: 0;
+    height: 50vh;
+    width: 20vw;
+
+}
